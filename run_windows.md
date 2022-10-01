@@ -19,5 +19,5 @@
 **# Control panel**<br>
 `control`<br>
 <br>
-**# Firewall settings**br>
+**# Firewall settings**<br>
 `firewall.cpl`<br>
