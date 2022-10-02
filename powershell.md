@@ -1,4 +1,4 @@
-**#Find process path **<br>
+**#Find process path**<br>
 `(ps -Name 'process_name').Path`<br>
 <br>
 **#Get file version from process**<br>
