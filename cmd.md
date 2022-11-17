@@ -9,3 +9,5 @@
 <br>
 **# List TCP connections with PIDs**<br>
 `netstat -fon`<br>
+**# Convert mkv to mp4 using ffmpeg**<br>
+ffmpeg -i file.mkv -codec copy file.mp4
